@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Counter/static/css/main.9d0bac78.chunk.css",
+    "main.js": "/Simple-Counter/static/js/main.54645179.chunk.js",
+    "main.js.map": "/Simple-Counter/static/js/main.54645179.chunk.js.map",
+    "runtime-main.js": "/Simple-Counter/static/js/runtime-main.950f8fc2.js",
+    "runtime-main.js.map": "/Simple-Counter/static/js/runtime-main.950f8fc2.js.map",
+    "static/js/2.63252aec.chunk.js": "/Simple-Counter/static/js/2.63252aec.chunk.js",
+    "static/js/2.63252aec.chunk.js.map": "/Simple-Counter/static/js/2.63252aec.chunk.js.map",
+    "index.html": "/Simple-Counter/index.html",
+    "precache-manifest.aa76cb631d7c432e6016dd1721f7d383.js": "/Simple-Counter/precache-manifest.aa76cb631d7c432e6016dd1721f7d383.js",
+    "service-worker.js": "/Simple-Counter/service-worker.js",
+    "static/css/main.9d0bac78.chunk.css.map": "/Simple-Counter/static/css/main.9d0bac78.chunk.css.map",
+    "static/js/2.63252aec.chunk.js.LICENSE.txt": "/Simple-Counter/static/js/2.63252aec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.950f8fc2.js",
+    "static/js/2.63252aec.chunk.js",
+    "static/css/main.9d0bac78.chunk.css",
+    "static/js/main.54645179.chunk.js"
+  ]
+}
