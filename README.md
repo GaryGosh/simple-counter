@@ -1,2 +1,1 @@
-Check out simple counter here -->  https://garygosh.github.io/simple-counter/.
-Source
+Check out simple counter here -->  https://garygosh.github.io/Simple-Counter/
